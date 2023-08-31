@@ -1,0 +1,27 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "Collection of my javascript practice project",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsnailo/js-practice-projects.git"
+  },
+  "keywords": [
+    "js",
+    "ui/ux",
+    "project"
+  ],
+  "author": "mrsnailo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsnailo/js-practice-projects/issues"
+  },
+  "homepage": "https://github.com/mrsnailo/js-practice-projects#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
