@@ -9,21 +9,26 @@
 
 ## Current projects: 
 
--  [Summer sale][https://github.com/mrsnailo/js-practice-projects/tree/main/summer-sale]  - a online shop, where basically a sale is going on, user will get 20% discount if they purcahse > 199 taka . 
+-  [Summer sale](https://github.com/mrsnailo/js-practice-projects/tree/main/summer-sale)  - an online shop, where basically a sale is going on, users will get 20% discount if they purchase > 199 taka. 
 
 ## Getting Started
 
 ```
-├── node_modules
-├── [project_folder]/
-│   ├── assets
-│   │   ├── css/
-│	│	├── images/
-│   │   ├── js/
-│   │   └── *
-│   └── index.html   
+.
 ├── package.json
-└── ...
+├── package-lock.json
+├── readme.md
+└── summer-sale
+    ├── assets
+    │   ├── css
+    │   │   └── main.css
+    │   ├── images
+    │   └── js
+    │       └── main.js
+    ├── figma
+    │   
+    └── index.html
+
 ```
 
 1. Clone this repository
@@ -44,6 +49,7 @@ npm install
 ```shell
 npm start
 ```
+
 
 > ps. I will update the documentation, if neccessary. 
 <!-- CONTACT -->
