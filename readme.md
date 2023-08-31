@@ -37,7 +37,7 @@
 git clone https://github.com/mrsnailo/js-practice-projects.git
 ```
 
-2.  Open terminal  , and cd into any project folder , then   install dependencies. 
+2.  Open terminal  , and cd into the folder , then   install dependencies. 
 
 ```bash
 cd js-practice-projects &&
@@ -50,9 +50,8 @@ npm install
 npm start
 ```
 
-
-> ps. I will update the documentation, if neccessary. 
+> ps. I will update the doc, if neccessary. 
 <!-- CONTACT -->
 ## Contact
 
-[@mrsnailo](https://t.me/@mrsnailo) 
+[@mrsnailo](https://mrsnailo.t.me) 
